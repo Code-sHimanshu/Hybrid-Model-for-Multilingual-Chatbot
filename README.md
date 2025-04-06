@@ -1,4 +1,3 @@
-readme_content = """
 # Hybrid Model for Multilingual Chatbot
 
 This project builds a hybrid text classification model combining **Sentence Transformers** and **Logistic Regression** to power a multilingual chatbot interface.

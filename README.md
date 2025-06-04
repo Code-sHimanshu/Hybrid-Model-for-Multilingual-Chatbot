@@ -12,8 +12,11 @@ This project builds a hybrid text classification model combining **Sentence Tran
 
 Hybrid-Model-for-Multilingual-Chatbot/ 
 ├── sbert_lr_model.pkl # Trained classifier 
+
 ├── label_encoder.pkl # Label encoder 
+
 ├── hybrid_model_training.ipynb # Model training notebook 
+
 ├── README.md 
 
 # Project documentation
